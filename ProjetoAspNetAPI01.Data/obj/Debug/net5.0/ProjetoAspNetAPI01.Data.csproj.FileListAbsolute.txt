@@ -1,0 +1,12 @@
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.deps.json
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.AssemblyReference.cache
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfoInputs.cache
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfo.cs
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.CoreCompileInputs.cache
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\refint\ProjetoAspNetAPI01.Data.dll
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\DanielCid\Desktop\Coti-C# Web Developer\Aula16\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
